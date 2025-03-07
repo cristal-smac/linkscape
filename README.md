@@ -1,2 +1,3 @@
 # netscape
-multiagent system to illustrate the influence of resource concentration on rivalry between agents
+
+![GIF](gifs/output1.gif)
