@@ -1,4 +1,4 @@
-# netscape
+# linkscape
 
 Ce modèle explore l’évolution d’un réseau d’agents dans un contexte de gestion de ressources communes. Les agents cherchent à survivre en consommant de l’épice dispersée dans l’environnement.
 
